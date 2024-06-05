@@ -1,12 +1,12 @@
 [English](README.md)
 
 # 南国2048
-这是Gabriele Cirulli的[原版 2048](http://gabrielecirulli.github.io/2048/)的南国版。此版本克隆自afrancocf的[2048-OPTIMUSJR](https://github.com/afrancocf/2048-OPTIMUSJR)。
+这是Gabriele Cirulli的[原版 2048](http://gabrielecirulli.github.io/2048/)的南国版。此版本克隆自alittleyoshi的[HSAS-2048-images-ver](https://github.com/alittleyoshi/HSAS-2048-images-ver)。
 
 The original version is a small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
 ### 南国版的注意事项
-这个版本只是出于娱乐目的而制作的。我们非常尊重所有的老师。老师的顺序仅根据学校官方网站的信息排列，没有任何个人主观意图。无不良引导。学生应该尊重和敬重他们的老师。你也可以[fork原始存储库](https://github.com/gabrielecirulli/2048)。
+这个版本只是出于娱乐目的而制作的。你也可以[fork原始存储库](https://github.com/gabrielecirulli/2048)。
 
 ~志存高远 博学优雅 创意自信 引领未来~ 
 
